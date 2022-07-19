@@ -1,4 +1,4 @@
-package com.generation.storegames;
+package com.generation.storegames.service;
 
 import java.nio.charset.Charset;
 import java.util.Optional;
